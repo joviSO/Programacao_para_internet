@@ -5,9 +5,10 @@
 
 -----
 
-**Aluno :** João Victor Sousa Oliveira
-21 anos
-Téc. eletroeletrônico
+**Aluno :** 
+*João Victor Sousa Oliveira
+*21 anos
+*Téc. eletroeletrônico
 
 ## Contatos
 
