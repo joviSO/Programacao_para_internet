@@ -12,7 +12,7 @@ Téc. eletroeletrônico
 
 ## Contatos
 
-* E-mail: levelupdojoao@hotmail.com
+* E-mail: oliveira.jv.97@hotmail.com
 * Telefone: (99) 98832-6335
 
 ## Habilidades
@@ -25,7 +25,7 @@ Téc. eletroeletrônico
 
  # Áreas de Interesse
  
- * Web Desing;
+ * Web Design;
  * Gerenciamento de Banco de Dados
   
 
