@@ -27,6 +27,7 @@ Téc. em eletroeletrônica
  
  * Web Design;
  * Gerenciamento de Banco de Dados
+ * Segurança da Informação
   
 
   
